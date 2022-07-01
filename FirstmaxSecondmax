@@ -12,8 +12,7 @@
                 
             }else{
                 if(arr[i]>second_max){
-                    second_max=arr[i];
-                    
+                    second_max=arr[i];                    
                 }
                 
             }
