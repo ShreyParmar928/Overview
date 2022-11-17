@@ -24,5 +24,6 @@
 ---
 
 ### :fire: My Stats :
+   https://github-readme-streak-stats.herokuapp.com/?user=shrey-parmar-8aa756251
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shrey-parmar-8aa756251&theme=tokyonight)](https://git.io/streak-stats)
