@@ -21,3 +21,7 @@
 - :seedling: Exploring Technical Content Online
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shrey-parmar-8aa756251)
+---
+
+### :fire: My Stats :
+   https://github-readme-streak-stats.herokuapp.com/?user=shrey-parmar-8aa756251
