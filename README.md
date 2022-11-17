@@ -14,7 +14,7 @@
 </div>
 
 ### 👨‍💻: About Me : 
-   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+   I am a Part Time Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
    
 - :telescope: I’m Studying currently in College and pursuing B.tech Data science in Computer Science Engineering
 
